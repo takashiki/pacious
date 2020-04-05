@@ -1,0 +1,6 @@
+{
+    "name": "pacious",
+    "dependencies": {
+        "@types/node": "^13.11.0"
+    }
+}
